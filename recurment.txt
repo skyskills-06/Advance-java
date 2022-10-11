@@ -1,0 +1,5 @@
+hi my dear group memeber this is my anlaysis about our project .
+we have classes like (company of droug, Employers , costomar , droug ,  )
+each class has mithods for company class we have (emport , export , about_company, policy)
+for droug calss we have (droug name , rital , date , type  )
+for costomar we have (costomar name , address , belance )
